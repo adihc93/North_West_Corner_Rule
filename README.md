@@ -1,0 +1,1 @@
+# North_West_Corner_Rule
